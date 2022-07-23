@@ -12,6 +12,7 @@
   
 - run npm init -y to create your package.json file
 - install nodemon as a dev dependency (hint --save-dev)
+- install express as a dependency
 - add a server.js file
 - add a start:dev script which will run **nodemon server**
 - use a .gitignore so you don't commit your node_modules folder
