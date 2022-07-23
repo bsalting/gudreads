@@ -9,6 +9,12 @@
   - coding
   - hobbies
   - or anything else you are interested in!
+  
+- run npm init -y to create your package.json file
+- install nodemon as a dev dependency (hint --save-dev)
+- add a server.js file
+- add a start:dev script which will run **nodemon server**
+
 
 <a href='https://github.com/FullstackAcademy/dealers-choice-express-js/blob/main/checklist.txt'>Requirements</a>
 
