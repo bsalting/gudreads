@@ -14,6 +14,7 @@
 - install nodemon as a dev dependency (hint --save-dev)
 - add a server.js file
 - add a start:dev script which will run **nodemon server**
+- use a .gitignore so you don't commit your node_modules folder
 
 # <a href='https://github.com/FullstackAcademy/dealers-choice-express-js/blob/main/checklist.md'>Requirements</a>
 
