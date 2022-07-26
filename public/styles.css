@@ -1,0 +1,70 @@
+* {
+  font-family: verdana;
+}
+
+h1 {
+  font-family: Verdana;
+  color: #ca955c;
+  font-size: 50px;
+  padding: 50px 0 0 50px;
+}
+
+h3 {
+  font-family: Verdana;
+  margin: 10px 50px 30px 50px;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 14px;
+  margin: 10px 50px 10px 50px;
+}
+
+div > .book-rows {
+  max-height: auto;
+  max-width: auto;
+  padding: 2%;
+}
+
+#book-list {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
+#book-item {
+  display: flex;
+  justify-content: flex-start;
+  margin: 50px 0 0 50px;
+}
+
+#page-404 {
+  display: flex;
+  justify-content: flex-start;
+  margin: 50px 0 0 50px;
+}
+
+#book-blurb {
+  font-family: Verdana;
+  color: slategray;
+  font-size: 14px;
+  padding-top: 5px;
+}
+
+#img-404 {
+  width: 100%;
+  height: auto;
+  margin-left: 50px;
+}
+
+#msg-404 {
+  color: #bf9742;
+}
+.bold {
+  font-weight: bold;
+}
+
+.quote-404 {
+  margin-left: 100px;
+}
